@@ -64,5 +64,5 @@ Open-source project.
 
 ## 🙌 Author
 
-**Your Name**\
+**sai sampath**\
 Cloud & DevOps Enthusiast
