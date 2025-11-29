@@ -58,6 +58,9 @@ fundamentals
 3.  Make objects public\
 4.  Access via S3 website endpoint
 
+## Link
+http://3.26.255.41/
+
 ## 📄 License
 
 Open-source project.
